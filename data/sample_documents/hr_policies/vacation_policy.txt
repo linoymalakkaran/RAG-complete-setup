@@ -1,0 +1,67 @@
+# Sample HR Policy Document
+
+This is a sample vacation policy document for testing the RAG system.
+
+## VACATION POLICY
+
+### 1. Vacation Entitlement
+
+All full-time employees are entitled to paid vacation time based on their length of service:
+
+- **0-2 years of service**: 10 working days per year
+- **2-5 years of service**: 15 working days per year  
+- **5+ years of service**: 20 working days per year
+- **10+ years of service**: 25 working days per year
+
+Part-time employees receive vacation time on a pro-rated basis.
+
+### 2. Requesting Vacation
+
+Vacation requests must be submitted through the HR portal at least **2 weeks in advance** for requests of 5 days or less, and **1 month in advance** for longer periods.
+
+All requests are subject to manager approval based on:
+- Team coverage needs
+- Project deadlines
+- Other approved time-off requests
+
+### 3. Carryover Policy
+
+Unused vacation days may be carried over to the following calendar year, subject to the following limits:
+
+- Maximum carryover: **5 days**
+- Days exceeding this limit will be **forfeited** at year-end
+- No cash payout for unused vacation (except upon termination)
+
+### 4. Vacation During Notice Period
+
+Employees may not take vacation during their notice period unless specifically approved by their manager and HR.
+
+### 5. Holidays
+
+Company-observed holidays do **not** count against vacation time. Current holidays include:
+- New Year's Day
+- Memorial Day
+- Independence Day
+- Labor Day
+- Thanksgiving (2 days)
+- Christmas Day
+
+### 6. Emergency Time Off
+
+In case of emergencies (illness, family emergency, etc.), employees should:
+1. Notify their manager as soon as possible
+2. Submit formal request within 24 hours
+3. May use vacation days or sick leave as appropriate
+
+### 7. Contact Information
+
+For questions about vacation policy:
+- **HR Department**: hr@company.com
+- **Phone**: Extension 5555
+- **HR Portal**: https://hr.company.com
+
+---
+
+*Policy effective date: January 1, 2024*
+*Last updated: January 1, 2024*
+*Document version: 2.0*
